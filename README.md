@@ -19,4 +19,4 @@ A full stack Team Task Manager web app built with React + Vite.
 Rishabh Pal
 
 ## GitHub
-https://github.com/yourusername/team-task-manager
+https://github.com/rishabhpal019/team-task-manager
